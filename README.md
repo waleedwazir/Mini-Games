@@ -1,2 +1,2 @@
-# Personal-Projects
-My Personal Projects to help me learn.
+# Mini-Games 
+Folder of small games to learn and understand topics/syntax
